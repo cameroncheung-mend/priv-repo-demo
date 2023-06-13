@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <PackageReference Include="CCC.CodeStandards.Equivalent" Version="1.0.0" />
-    <PackageReference Include="CCC.TestEnvironments.Generator" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
