@@ -1,3 +1,13 @@
 {
-  "settingsInheritedFrom": "cameroncheung-mend/whitesource-config@main"
+  "settingsInheritedFrom": "cameroncheung-mend/whitesource-config@main",
+  "hostRules": [
+    {
+      "matchHost": "https://cammendtest.jfrog.io/artifactory/api/nuget/nuget",
+      "hostType": "nuget",
+      "userName": "camhostrule",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf/Sg3CTYPXYAKAKSMzkdvQ3/Dl60y9gUvP7c//tIRPnHsH7PIpgUnlPfEwg2llwGdxtvXsRV/g8VywJ1YOJo+I+0rg81shYl/B7UwjHNCYgWkFC59kRso4Ok0gObDLv5mJKQr8vrLDZiEJH5GzqMA/Qma7AjJXYbtzBC7DuWsOz+OOB5tbD7pPKv2lIgfBvaN9WTjmCiXGaQTpLNrsTHK8zc0eHmLzt+SjKZ/qf2JU6IZj9e4oOVjnUXKNgxDVY/hZ2iGmjdZDLBHWwkCzcqzOjnn1N9S6/w9SgVXyHPzi3qh4y9kSHNiZyRn3BsiJTWaMVLOy/+mQjOv1hBr9C2uFjdLCfQGwJtaPYKygi3sPAiLtHSEIDN6DgrZ0yaDfwlECGtBOJgiaza+cyNdf3nwLK0CkFEmDS7UMFZlgNUmx8LGqK7i2BwZQNnBT0V1XS7FQjgaECIxh+B1q7ic5q12bMJcpaBE+hpBIUp8DfhMse+ZL+U117urSMQcUcqKmgg0Dtm/2VJupqeHefCwEMX34Bc6TcZyzCs5yTrdjsYgdParTxhit5XGWOh9PWKYvhp7hqOGq/S5vLCljRu/3c62o1zIDtDq5CJN8+WJIDUJzBjoZJ9Xvsl+0mvUvs3mjvVC247ypdDsHQxAKD3iVQKk/z6cd4Y16p8gh+9jHMW632LMv0+JQO2IMQc1R48GtmEZNh2Ny/O+KMqx2mVGZe0BW4FbO3Gy1VN9I+CJSzEHThHuFVBe0i4bl1Xbtfg6im43FJKx+3WvRA2WHabmFW/NBM8f4yx7kifKH+DnNbb1UklIRi24Tygehc/KIwVYs/OoIOMbODFaUQ9uSzLW6OJ09P8BxO5inxe2HTGHFoo0NLcLK7f9t/7AyxeQLMBbhLp4wTQIUlz5R72q3VA30r1lepmlPcgt301iTMkzZY1JFmoHulrvhHg+MO01FhaMxK7XoH3vsd6RGXHozutPQxAhWcZUXapV47dKspZMjritg0AdPV0x1SGW7ll56XlKKC3xvso8Y8QJjchUCzuIhxnQUuCTH1bw2/fPyEiqzE/nYFkd7+4Qoy9Bl5DDJlQ7+K/aXpdIVo+ZCcoNsfMu8iPxhQAcXq9DIuu3qm+/XsKGNY/6t+78HbWYHmVO9Q3WTxGa2VPRtPvSeGp1Utjbp4KbS7h4NTS6SwyjrrdNsXci/CeIXoLK/RIk+oowaR8+EyucreMjIZWherM7a5MfKa5Aokto1FzheA5/UpOwHbeJVzhavsePrr+lmqzNCXvmH0GBiXHDgG2EmI11Kiz2ZdOhMdIFIlsOept3uE7ktzmuL8x+m+y1G4HpwTSJOcPsn4Q4eeNKu61dgDHKAScr3oC49h8SFNq8w5xsRScXaPTDo76X5DQwUhXCbbnUqslZLBzZVuG9HW98KpZR0EkWZ7nuQmcl3jwXbYKPc4gA54JGQspE"
+        }
+    }
+  ]
 }
