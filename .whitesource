@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "cameroncheung-mend/whitesource-config@main",
   "hostRules": [
     {
-      "matchHost": "https://cammendtest.jfrog.io/artifactory/api/nuget/nuget",
+      "matchHost": "https://cammendtest.jfrog.io/artifactory/api/nuget/nuget-local",
       "hostType": "nuget",
       "userName": "camhostrule",
       "encrypted": {
